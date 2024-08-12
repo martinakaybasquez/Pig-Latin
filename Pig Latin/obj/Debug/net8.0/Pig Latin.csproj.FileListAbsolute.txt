@@ -1,0 +1,14 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/bin/Debug/net8.0/Pig Latin
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/bin/Debug/net8.0/Pig Latin.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/bin/Debug/net8.0/Pig Latin.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/bin/Debug/net8.0/Pig Latin.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/bin/Debug/net8.0/Pig Latin.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/refint/Pig Latin.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/Pig Latin.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Pig Latin/Pig Latin/obj/Debug/net8.0/ref/Pig Latin.dll
